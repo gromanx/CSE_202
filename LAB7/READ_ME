@@ -1,0 +1,1 @@
+This lab focuses on inheretence. Employee and Student are derived from Person class. Faculty and Staff are derived from Employee class. StaffST is derived from Staff class.
